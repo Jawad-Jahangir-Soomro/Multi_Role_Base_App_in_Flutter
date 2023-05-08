@@ -29,7 +29,7 @@ class _logInScreenState extends State<logInScreen> {
         title: const Center(child: Text("LogInScreen")),
       ),
       body: Padding(
-        padding: const EdgeInsets.all(8.0),
+        padding: const EdgeInsets.all(9.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
